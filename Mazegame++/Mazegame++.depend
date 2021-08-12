@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1627680265 source:c:\users\petek\desktop\mazegame++\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<process.h>
+	<windows.h>
+	<fstream>
+
